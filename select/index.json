@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "黒のバースデイ",
+  "base_artist": "Ave Mujica",
+  "createdAt": "2025-12-15T05:31:14.513285Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "黒のバースデイ",
+      "artist": "Ave Mujica",
+      "has_synced": true,
+      "path": "select/01_黒のバースデイ_Ave_Mujica.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "黒のバースデイ",
+      "artist": "Ave Mujica",
+      "has_synced": true,
+      "path": "select/02_黒のバースデイ_Ave_Mujica.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "黒のバースデイ - Black Birthday",
+      "artist": "Ave Mujica",
+      "has_synced": true,
+      "path": "select/03_黒のバースデイ_-_Black_Birthday_Ave_Mujica.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "黒のバースデイ",
+      "artist": "Ave Mujica",
+      "has_synced": false,
+      "path": "select/pl_01_黒のバースデイ_Ave_Mujica.txt"
+    }
+  ]
+}
